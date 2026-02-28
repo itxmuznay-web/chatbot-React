@@ -70,8 +70,7 @@ Help customers with menu details, prices, reservations, and complaints politely.
 
   return (
     <div>
-      <h1>Restaurant  Chatbot</h1>
-      <h2>Chatbot:</h2>
+      
        <SignInButton />
        <SignOutButton/>
       
